@@ -2,7 +2,7 @@ from platform import system
 import os
 import utility
 
-"""THE IP ADDRESS OF THE SERVER SHOULD BE PASSED HEREWSSSSS"""
+"""THE IP ADDRESS OF THE SERVER SHOULD BE PASSED HERE"""
 IP = "0.0.0.0"
 
 PORT = 7676
